@@ -1,0 +1,15 @@
+A:\Documents\progs\kek\bin\Debug\net6.0\kek.exe
+A:\Documents\progs\kek\bin\Debug\net6.0\kek.deps.json
+A:\Documents\progs\kek\bin\Debug\net6.0\kek.runtimeconfig.json
+A:\Documents\progs\kek\bin\Debug\net6.0\kek.dll
+A:\Documents\progs\kek\bin\Debug\net6.0\kek.pdb
+A:\Documents\progs\kek\obj\Debug\net6.0\kek.csproj.AssemblyReference.cache
+A:\Documents\progs\kek\obj\Debug\net6.0\kek.GeneratedMSBuildEditorConfig.editorconfig
+A:\Documents\progs\kek\obj\Debug\net6.0\kek.AssemblyInfoInputs.cache
+A:\Documents\progs\kek\obj\Debug\net6.0\kek.AssemblyInfo.cs
+A:\Documents\progs\kek\obj\Debug\net6.0\kek.csproj.CoreCompileInputs.cache
+A:\Documents\progs\kek\obj\Debug\net6.0\kek.dll
+A:\Documents\progs\kek\obj\Debug\net6.0\refint\kek.dll
+A:\Documents\progs\kek\obj\Debug\net6.0\kek.pdb
+A:\Documents\progs\kek\obj\Debug\net6.0\kek.genruntimeconfig.cache
+A:\Documents\progs\kek\obj\Debug\net6.0\ref\kek.dll
