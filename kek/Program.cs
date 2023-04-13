@@ -5,22 +5,27 @@
 
         static void Main(string[] args)
         {
-            var bus = new Bus();
-            bus.Load = 0;
-            bus.PrintStatus();
+            
         }
-        class Bus
+        class Triangle
         {
-            public int? Load;
-
-            public void PrintStatus()
-            {
-                if (this.Load != null && this.Load > 0)
-                    Console.WriteLine("В автобусте: {0}", this.Load);
-                else 
-                    Console.WriteLine("Автобус пуст");
-                
-            }
+            public float a = 0;
+            public float b = 0;
+            public float c = 0;
+            public float square() { }
+            public float perimeter() { }
+        }
+        class Square
+        {
+            public float a = 0;
+            public float square() { }
+            public float perimeter() { }
+        }
+        class Circle
+        {
+            public float r = 0;
+            public float square() { }
+            public float perimeter() { }
         }
 
     }
