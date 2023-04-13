@@ -7,26 +7,18 @@
         {
             
         }
-        class Triangle
+        class TrafficLight
         {
-            public float a = 0;
-            public float b = 0;
-            public float c = 0;
-            public float square() { }
-            public float perimeter() { }
+            private void ChangeColor(string color)
+            {
+
+            }
+            public string GetColor() 
+            { 
+
+            }
         }
-        class Square
-        {
-            public float a = 0;
-            public float square() { }
-            public float perimeter() { }
-        }
-        class Circle
-        {
-            public float r = 0;
-            public float square() { }
-            public float perimeter() { }
-        }
+        
 
     }
 }
